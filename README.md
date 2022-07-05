@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ki3istrawberry
+- 👀 I’m interested in web design and development
+- 🌱 I’m currently learning HTML, CSS, JavaScript
